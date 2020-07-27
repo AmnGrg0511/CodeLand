@@ -1,0 +1,128 @@
+body{
+  font-family: 'Rowdies';
+}
+h1{
+  font-family: 'Rowdies', cursive;
+  font-size: 3rem;
+  color: #fff;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 12% 0;
+}
+#title{
+  background-color: #27496d;
+}
+.navbar-brand{
+  font-size: 35px;
+  color: #1b1c25;
+}
+.navbar{
+  padding: 20px 50px;
+}
+.drop-menu{
+  border-radius: 0;
+  border: 0;
+}
+.iphone{
+  width: 106%;
+  /*transform: rotate(8deg);*/
+  position: relative;
+  top: 70px;
+}
+#features{
+  padding: 16% 15%;
+  background-color: #f1fcfc;
+  text-align: center;
+}
+.desc{
+  font-weight: normal;
+  color: #72b5b7;
+}
+.icony{
+
+  color:#0fabbc;
+}
+.icony:hover{
+  color: #0c7b93;
+  text-shadow: 2px 2px 5px #89c9b8;
+}
+h3{
+
+color: #27496d;
+}
+a{
+  color: #27496d;
+}
+a:hover{
+  text-decoration: none;
+  color:#0fabbc;
+  text-shadow: 2px 2px 3px #888888;
+}
+.sec{
+  padding: 50px;
+}
+#testimonials{
+  text-align: center;
+  background-color: #27496d;
+  color: #fff;
+}
+.t-img{
+  width: 25%;
+  border-radius: 30%;
+  margin: 30px;
+}
+.t-img2{
+  width: 34%;
+  margin: 30px;
+}
+.press-image{
+width: 5%;
+margin: 12px;
+}
+.carousel-item{
+    padding: 5% 13%;
+}
+#pricing{
+  padding: 16% 15%;
+  background-color: #f1fcfc;
+  text-align: center;
+}
+.plan{
+  margin: 20px;
+  color: #383e56;
+}
+.card{
+  margin: 40px;
+  background-color: #fff;
+}
+.desc2{
+  line-height: 3;
+  color:#888888;
+}
+.card:hover{
+  box-shadow: 2px 2px 3px #888888;
+}
+#cta{
+  padding: 6% 15%;
+  background-color: #27496d;
+  text-align: center;
+}
+.love{
+color: #fff;
+margin-bottom: 30px;
+}
+#footer{
+  text-align: center;
+  padding: 30px;
+}
+.imar{
+  margin: 24px;
+}
+.copyr{
+  letter-spacing: 3px;
+  word-spacing: 4px;
+}
+.db{
+  margin: 10px;
+}
